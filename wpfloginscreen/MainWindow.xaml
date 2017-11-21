@@ -6,7 +6,7 @@
     <Border Background="LightSlateGray">
         <Grid>
             
-            <Label Content="SHUT UP AND TAKE MY MONEY." Foreground="White" HorizontalAlignment="Center" VerticalContentAlignment="Center" FontSize=" 30"></Label>
+            <Label Content="SHUT The front Dooor" Foreground="White" HorizontalAlignment="Center" VerticalContentAlignment="Center" FontSize=" 30"></Label>
         </Grid>
     </Border>
 </Window>
