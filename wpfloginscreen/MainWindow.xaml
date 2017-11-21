@@ -6,7 +6,7 @@
     <Border Background="LightSlateGray">
         <Grid>
             
-            <Label Content="Viktors bransh test123" Foreground="White" HorizontalAlignment="Center" VerticalContentAlignment="Center" FontSize=" 30"></Label>
+            <Label Content="Viktors bransh test123456" Foreground="White" HorizontalAlignment="Center" VerticalContentAlignment="Center" FontSize=" 30"></Label>
         </Grid>
     </Border>
 </Window>
