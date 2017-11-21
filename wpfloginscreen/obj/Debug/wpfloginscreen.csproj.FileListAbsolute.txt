@@ -19,3 +19,24 @@ C:\Users\Alexander\Google Drive\Digitcash\Viktor\Digcash 0.0\wpfloginscreen\obj\
 C:\Users\Alexander\Google Drive\Digitcash\Viktor\Digcash 0.0\wpfloginscreen\obj\Debug\wpfloginscreen.csproj.CoreCompileInputs.cache
 C:\Users\Alexander\Google Drive\Digitcash\Viktor\Digcash 0.0\wpfloginscreen\obj\Debug\wpfloginscreen.exe
 C:\Users\Alexander\Google Drive\Digitcash\Viktor\Digcash 0.0\wpfloginscreen\obj\Debug\wpfloginscreen.pdb
+\\Mac\Home\Documents\GitHub\DigitCash\wpfloginscreen\bin\Debug\wpfloginscreen.exe.config
+\\Mac\Home\Documents\GitHub\DigitCash\wpfloginscreen\bin\Debug\wpfloginscreen.exe
+\\Mac\Home\Documents\GitHub\DigitCash\wpfloginscreen\bin\Debug\wpfloginscreen.pdb
+\\Mac\Home\Documents\GitHub\DigitCash\wpfloginscreen\obj\Debug\wpfloginscreen.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\DigitCash\wpfloginscreen\obj\Debug\LoginScreen.baml
+\\Mac\Home\Documents\GitHub\DigitCash\wpfloginscreen\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\GitHub\DigitCash\wpfloginscreen\obj\Debug\LoginScreen.g.cs
+\\Mac\Home\Documents\GitHub\DigitCash\wpfloginscreen\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\GitHub\DigitCash\wpfloginscreen\obj\Debug\signup.g.cs
+\\Mac\Home\Documents\GitHub\DigitCash\wpfloginscreen\obj\Debug\Window1.g.cs
+\\Mac\Home\Documents\GitHub\DigitCash\wpfloginscreen\obj\Debug\App.g.cs
+\\Mac\Home\Documents\GitHub\DigitCash\wpfloginscreen\obj\Debug\wpfloginscreen_MarkupCompile.cache
+\\Mac\Home\Documents\GitHub\DigitCash\wpfloginscreen\obj\Debug\wpfloginscreen_MarkupCompile.lref
+\\Mac\Home\Documents\GitHub\DigitCash\wpfloginscreen\obj\Debug\signup.baml
+\\Mac\Home\Documents\GitHub\DigitCash\wpfloginscreen\obj\Debug\Window1.baml
+\\Mac\Home\Documents\GitHub\DigitCash\wpfloginscreen\obj\Debug\wpfloginscreen.g.resources
+\\Mac\Home\Documents\GitHub\DigitCash\wpfloginscreen\obj\Debug\wpfloginscreen.Properties.Resources.resources
+\\Mac\Home\Documents\GitHub\DigitCash\wpfloginscreen\obj\Debug\wpfloginscreen.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\GitHub\DigitCash\wpfloginscreen\obj\Debug\wpfloginscreen.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\DigitCash\wpfloginscreen\obj\Debug\wpfloginscreen.exe
+\\Mac\Home\Documents\GitHub\DigitCash\wpfloginscreen\obj\Debug\wpfloginscreen.pdb
